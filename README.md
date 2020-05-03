@@ -1,2 +1,2 @@
 # VBA_Challenge
-In this challenge you will use VBA scripting to analyze real stock market data.
+In this challenge, I used VBA scripting to analyze real stock market data.
